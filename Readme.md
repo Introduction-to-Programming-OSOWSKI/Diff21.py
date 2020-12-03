@@ -1,16 +1,31 @@
-# **Assignment Title**  
+# **Diff21**  
 
 ## **Assignment Description**  
-
+Create a function called diff21() that returns the absolute difference between a given variable n and 21, except return double the absolute difference between n and 21 if n is greater than 21.
 
 ## **Examples**  
->
+>diff21(19)  
+2
+
+>diff21(10)  
+11
+
+>diff21(21)  
+0
+
+>diff21(31)  
+20
 
 ## **Limitations**  
+1 if  
+1 else  
 
 ## **Hints**  
+Use parenthesis for order of operations.  
+Use abs(n) to return the absolute value of n.  
 
 ## **Concepts**  
+Unit 1, if/else, abs(), comparison operators  
 
 ---
 
